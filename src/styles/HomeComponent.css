@@ -1,0 +1,17 @@
+.box {
+    position: relative;
+	height: 90vh;
+	width:100vw;
+}
+.home-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	
+	width: 70%;
+	height: 90%;
+	background-image: url("../assets/student.png");
+	background-position: center;
+	background-size: cover;
+}
